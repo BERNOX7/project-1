@@ -1,0 +1,59 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    text-align: center;
+}
+.container {
+    padding: 100px;
+}
+.headline {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.description {
+    font-size: 40px;
+    color: gold;
+    margin-bottom: 200px;
+}
+.cta-button {
+    background-color: #f700ff;
+    color: black;
+    border: none;
+    padding: 15px 30px;
+    font-size: 30px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.cta-button:hover {
+    background-color: #6b00b3;
+}
+/* style.css */
+nav {
+    background-color: #333;
+    padding: 20px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 200;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #FF5733;
+  }
+  

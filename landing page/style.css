@@ -1,0 +1,33 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+            text-align: center;
+        }
+        .container {
+            padding: 50px;
+        }
+        .headline {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .description {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        .cta-button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 18px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .cta-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
